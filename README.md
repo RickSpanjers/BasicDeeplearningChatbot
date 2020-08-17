@@ -1,1 +1,1 @@
-BasicDeeplearningChatbot
+hr-machine-learning-chatbot
